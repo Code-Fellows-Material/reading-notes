@@ -24,7 +24,7 @@
 - *What is the very first thing to happen in the lifecycle of a React component?*
     - The constructor is called
     
-- *Put the following things in the order that they happen: *
+- *Put the following things in the order that they happen:*
 
     - `constructor`
     - `render`
