@@ -18,13 +18,13 @@
 
 ### Question Answers: 
 
-- Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
-    - *render happens before componentDidMount()*
+- *Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?*
+    - render happens before componentDidMount()
 
-- What is the very first thing to happen in the lifecycle of a React component?
-    - *The constructor is called*
+- *What is the very first thing to happen in the lifecycle of a React component?*
+    - The constructor is called
     
-- Put the following things in the order that they happen: 
+- *Put the following things in the order that they happen: *
 
     - `constructor`
     - `render`
@@ -34,11 +34,11 @@
     - + `componentDidUpdate` called after updating happens
     - `componentWillUnmount`
 
-- What does componentDidMount do?
+- *What does componentDidMount do?*
 
-    - *componentDidMount is called after a component is mounted (its usually a good place to make a network request)*
+    - componentDidMount is called after a component is mounted (it's usually a good place to make a network request)
 
-####: Side Notes
+#### Side Notes:
 
 - See React Docs link above for more detailed info.
 
@@ -48,18 +48,18 @@
 
 ### Question Answers: 
 
-- What types of things can you pass in the props?
-    - *props are for things kinda like what you would pass to a function, initial values, display information, etc...*
+- *What types of things can you pass in the props?*
+    - props are "for things like what you would pass to a function," initial values, display information, etc...
 
 
-- What is the big difference between props and state?
-    - *State is something inside of a component, props are passed in. While state is handled and updated inside of a component, props are handled and updated outside of that component.*
-    - *When state is changed inside a component, that component will re-render, while props can't be changed inside of a component.*
-    - *State is needed when a value inside of a component changes over time.*
+- *What is the big difference between props and state?*
+    - State is something inside of a component, props are passed in. While state is handled and updated inside of a component, props are handled and updated outside of that component.
+    - When state is changed inside a component, that component will re-render, while props can't be changed inside of a component.
+    - State is needed when a value inside of a component changes over time.
 
-- When do we re-render our application?
-    - *When we want to display new information to the user*
+- *When do we re-render our application?*
+    - When we want to display new information to the user
 
-- What are some examples of things that we could store in state?
-    - *Counters, form information, and mutable data we wish to display to the user.*
+- *What are some examples of things that we could store in state?*
+    - Counters, form information, and mutable data we wish to display to the user.
 
