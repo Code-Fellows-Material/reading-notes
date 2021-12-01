@@ -4,6 +4,9 @@
 
 ## Things I want to know more about
 
+- Passing methods as references 
+- When keys actually come in handy
+
 --- 
 
 ## React Docs - lists and keys
@@ -76,9 +79,6 @@
 
                 console.log(fullName); // {first: "Kellen", last: "Linse"};
 
-
-#### Side Notes:
-
 ---
 
 ## How to Pass Functions Between Components
@@ -102,5 +102,3 @@
 - How does the child component invoke a method that was passed to it from a parent component?
 
     - In a method defined within it's own class (could propbably use an anonymous function in something like a clickHandler too).
-
-#### Side Notes:
