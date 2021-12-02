@@ -1,4 +1,4 @@
-# Class 03 Reading Notes
+# Class 04 Reading Notes
 
 ---
 
@@ -46,7 +46,7 @@
 #### Side Notes: 
 
     - You can have nested ternary operators.
-    - You can run multiple operations in a ternary, the operations must be comma seperated, and optionally can have paraenthesis around them.
+    - You can run multiple operations in a ternary, the operations must be comma separated, and optionally can have parenthesis around them.
 
                 let isStudent = true;
                 let price = 12;
