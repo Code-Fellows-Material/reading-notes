@@ -50,7 +50,7 @@
 
 ---
 
-## The Spread Operator
+## Higher Order Functions
 
 - [Higher Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
 
