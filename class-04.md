@@ -4,8 +4,8 @@
 
 ## Things I want to know more about
 
-- Passing methods as references 
-- When keys actually come in handy
+- Styling forms in react-bootstrap
+- Combining conditional rendering with forms in react
 
 --- 
 
