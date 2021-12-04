@@ -6,6 +6,7 @@
 
 Table of Contents:
 ---
+- [Class 01](https://kellen-linse.github.io/reading-notes/class-01.md)
 - [Class 02](https://kellen-linse.github.io/reading-notes/class-02.md)
 - [Class 03](https://kellen-linse.github.io/reading-notes/class-03.md)
 - [Class 04](https://kellen-linse.github.io/reading-notes/class-04.md)
