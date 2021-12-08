@@ -47,4 +47,4 @@ Yelp API Docs
 Did you get your API key? Yes 
 
 The Movie DB API Docs
-Did you get your API key?Yes 
+Did you get your API key? Yes 

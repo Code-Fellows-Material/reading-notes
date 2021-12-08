@@ -13,3 +13,4 @@ Table of Contents:
 - [Class 05](https://kellen-linse.github.io/reading-notes/class-05.md)
 - [Class 06](https://kellen-linse.github.io/reading-notes/class-06.md)
 - [Class 07](https://kellen-linse.github.io/reading-notes/class-07.md)
+- [Class 08](https://kellen-linse.github.io/reading-notes/class-08.md)
