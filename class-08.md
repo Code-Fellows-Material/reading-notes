@@ -8,7 +8,7 @@
 
 --- 
 
-## How I explained REST to my brother
+## API Design Best Practices
 
 - [API Design Best Practices](https://gist.github.com/brookr/5977550)
 
@@ -16,6 +16,7 @@
 
 - *What does REST stand for?*
     - Representational State Transfer (REST)
+
 
 - *REST APIs are designed around **resources**.*
 
