@@ -17,3 +17,4 @@ Table of Contents:
 - [Class 09](https://kellen-linse.github.io/reading-notes/class-09.md)
 - [Class 10](https://kellen-linse.github.io/reading-notes/class-10.md)
 - [Class 11](https://kellen-linse.github.io/reading-notes/class-11.md)
+- [Class 12](https://kellen-linse.github.io/reading-notes/class-12.md)
