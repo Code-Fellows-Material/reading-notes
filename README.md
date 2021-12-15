@@ -18,3 +18,4 @@ Table of Contents:
 - [Class 10](https://kellen-linse.github.io/reading-notes/class-10.md)
 - [Class 11](https://kellen-linse.github.io/reading-notes/class-11.md)
 - [Class 12](https://kellen-linse.github.io/reading-notes/class-12.md)
+- [Class 13](https://kellen-linse.github.io/reading-notes/class-13.md)
