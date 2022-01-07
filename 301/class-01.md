@@ -20,7 +20,7 @@
 
     - Can be thought of like a building block that can be moved around an re-used. 
 
-- *What are the charactistics of a component?*
+- *What are the characteristics of a component?*
 
                     Reusability − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
 

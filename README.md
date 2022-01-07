@@ -1,21 +1,9 @@
 # Reading Notes for Code Fellows
 
-### Reading Notes for Code Fellows 301 intermediate software development course.
-
-## Code 301 - Intermediate Software Development
-
-Table of Contents:
+## Reading Notes for Code Fellows 301 Intermediate Software Development course.
 ---
-- [Class 01](https://kellen-linse.github.io/reading-notes/class-01.md)
-- [Class 02](https://kellen-linse.github.io/reading-notes/class-02.md)
-- [Class 03](https://kellen-linse.github.io/reading-notes/class-03.md)
-- [Class 04](https://kellen-linse.github.io/reading-notes/class-04.md)
-- [Class 05](https://kellen-linse.github.io/reading-notes/class-05.md)
-- [Class 06](https://kellen-linse.github.io/reading-notes/class-06.md)
-- [Class 07](https://kellen-linse.github.io/reading-notes/class-07.md)
-- [Class 08](https://kellen-linse.github.io/reading-notes/class-08.md)
-- [Class 09](https://kellen-linse.github.io/reading-notes/class-09.md)
-- [Class 10](https://kellen-linse.github.io/reading-notes/class-10.md)
-- [Class 11](https://kellen-linse.github.io/reading-notes/class-11.md)
-- [Class 12](https://kellen-linse.github.io/reading-notes/class-12.md)
-- [Class 13](https://kellen-linse.github.io/reading-notes/class-13.md)
+- [Code Fellows 301 Reading Notes](https://kellen-linse.github.io/reading-notes/301-reading-notes.md)
+
+## Reading Notes for Code Fellows 401 Advanced Software Development in Full-Stack JavaScript course.
+---
+- [Code Fellows 401 Reading Notes](https://kellen-linse.github.io/reading-notes/401-reading-notes.md)

@@ -4,7 +4,7 @@
 
 ## Things I want to know more about
 
-- 
+- What efforts companies are making and what goals they are setting for themselves.
 
 ---  
 ## That Time When Women Stopped Coding
@@ -28,9 +28,10 @@
 ### Question Answers: 
 
 *What three take-a-ways do you have looking at this data?*
-    - The tech industry is still predominantly white males.
-    - There is only one company listed where the ratio of males to females is 1:1, and none with a greater ratio of females to males, (Indiegogo).
-    - There is only one company where white is not the majority ethnicity, (Nvidia).
+
+- The tech industry is still predominantly white males.
+- There is only one company listed where the ratio of males to females is 1:1, and none with a greater ratio of females to males, (Indiegogo).
+- There is only one company where white is not the majority ethnicity, (Nvidia).
 
 ---
 
